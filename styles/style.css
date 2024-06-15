@@ -40,6 +40,7 @@ ol {
 .page {
   display: flex;
   justify-content: center;
+  align-items: center;
 }
 
 .content {
@@ -48,7 +49,6 @@ ol {
   align-items: end;
   max-width: 1140px;
   height: 534px;
-  margin: 133px 30px;
   gap: 30px;
 }
 
